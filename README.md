@@ -4,7 +4,7 @@ This project is designed to stream video from an IP camera to a webrtc chat room
 
 ## Getting Started
 
-This project is based on coder-with-a-bushido webrtc server and client. But I made changes for both server and client to support IP camera.
+This project is based on [coder-with-a-bushido](https://coder-with-a-bushido.github.io) webrtc server and client. But I made changes for both server and client to support IP camera.
 The main change is I use IP cam stream as a source and write it to a canvas then gave this canvas stream to the webrtc.
 
 ### Prerequisites
