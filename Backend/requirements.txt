@@ -1,0 +1,5 @@
+Flask
+gunicorn
+Flask-SocketIO
+eventlet==0.30.2
+gevent-websocket

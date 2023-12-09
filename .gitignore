@@ -1,0 +1,40 @@
+# Ignore Python-related files and folders
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyc
+
+# Ignore React-related files and folders
+node_modules/
+build/
+/.env
+.DS_Store
+
+# Ignore any environment-specific files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore any editor-specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore logs and databases
+*.log
+*.sqlite
+*.db
+
+# Ignore compiled files
+*.dll
+*.exe
+*.class
+*.jar
+*.war
+*.aar
+
+# Ignore package-lock files for npm and yarn
+package-lock.json
+yarn.lock
